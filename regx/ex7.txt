@@ -1,0 +1,3 @@
+match text	aaaabcc
+match text	aabbbbc
+match text	aacc

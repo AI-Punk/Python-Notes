@@ -1,0 +1,4 @@
+match text	1.   abc
+match text	2.	abc
+match text	3.                 abc
+skip text	4.abc

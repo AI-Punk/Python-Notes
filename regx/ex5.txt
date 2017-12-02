@@ -1,0 +1,6 @@
+match text	Ana
+match text	Bob
+match text	Cpc
+skip text	aax
+skip text	bby
+skip text	ccz

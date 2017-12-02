@@ -1,0 +1,3 @@
+match text	1 file found?
+match text	2 files found?
+match text	x files found?

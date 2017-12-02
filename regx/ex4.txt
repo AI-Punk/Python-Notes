@@ -1,0 +1,6 @@
+match text	can
+match text	man
+match text	fan
+skip text	dan
+skip text	ran
+skip text	pan

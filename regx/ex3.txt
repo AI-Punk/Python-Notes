@@ -1,0 +1,4 @@
+match text	cat.
+match text	896.
+match text	?=+.
+skip text	abc1
